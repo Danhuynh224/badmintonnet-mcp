@@ -1,5 +1,5 @@
 import requests
-from config import BASE_URL, FE_URL
+from config import BASE_URL
 
 
 def _normalize_local_datetime(value: str, is_end: bool = False) -> str:

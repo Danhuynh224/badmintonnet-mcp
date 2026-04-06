@@ -1,5 +1,5 @@
 import requests
-from config import BASE_URL, FE_URL
+from config import BASE_URL
 
 
 class ClubAPI:
