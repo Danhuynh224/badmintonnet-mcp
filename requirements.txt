@@ -1,3 +1,4 @@
 requests
 mcp
 ddgs
+python-dotenv

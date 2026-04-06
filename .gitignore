@@ -92,7 +92,4 @@ Thumbs.db
 *.tmp
 ~$*
 
-# Local config
-config.py
-
 venv/
